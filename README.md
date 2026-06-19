@@ -1,4 +1,4 @@
-# 🏠 End-to-End Housing Price Prediction
+# 🏠 House Price Prediction — End-to-End ML Project
 
 ## 📌 Project Overview
 
