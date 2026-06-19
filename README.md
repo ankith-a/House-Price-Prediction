@@ -184,13 +184,25 @@ joblib.dump(model, "lin_reg.pkl")
 ## 📁 Project Structure
 
 ```
-End-to-End-Housing-Price-Prediction/
+house-price-prediction/
 │
-├── housing.csv
-├── housing_prediction.ipynb
-├── lin_reg.pkl
-├── README.md
-└── requirements.txt
+├── notebook/
+│   └── house_price_prediction.ipynb     # Full Jupyter notebook (main project)
+│
+├── data/
+│   └── housing.csv                      # California census housing dataset
+│
+├── screenshots/
+│   ├── data_histogram.png               # Feature distribution histograms
+│   ├── geo_scatter.png                  # Geographic housing price scatter plot
+│   ├── correlation_matrix.png           # Feature correlation heatmap
+│   └── scatter_matrix.png              # Scatter matrix of key attributes
+│
+├── docs/
+│   └── ml_checklist.md                 # ML project checklist reference
+│
+├── requirements.txt                     # Python dependencies
+└── README.md                            # This file
 ```
 
 ---
