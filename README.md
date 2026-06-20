@@ -195,7 +195,6 @@ house-price-prediction/
 ├── screenshots/
 │   ├── data_histogram.png               # Feature distribution histograms
 │   ├── geo_scatter.png                  # Geographic housing price scatter plot
-│   ├── correlation_matrix.png           # Feature correlation heatmap
 │   └── scatter_matrix.png              # Scatter matrix of key attributes
 │
 ├── docs/
