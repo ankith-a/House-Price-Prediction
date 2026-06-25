@@ -197,8 +197,8 @@ house-price-prediction/
 │   ├── geo_scatter.png                  # Geographic housing price scatter plot
 │   └── scatter_matrix.png              # Scatter matrix of key attributes
 │
-├── docs/
-│   └── ml_checklist.md                 # ML project checklist reference
+├── models/
+│   └── lin_reg.pkl
 │
 ├── requirements.txt                     # Python dependencies
 └── README.md                            # This file
